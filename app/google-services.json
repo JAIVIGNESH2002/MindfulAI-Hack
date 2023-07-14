@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "278233953664",
+    "project_id": "mindfulhackathon",
+    "storage_bucket": "mindfulhackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278233953664:android:c1296783e98d8f70827d65",
+        "android_client_info": {
+          "package_name": "com.example.mindfulai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278233953664-uck6k533vqnnuq7o719quq9lo5mke4tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsHW72_43KSilPIBWo8e809Hl7T6Rh-8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278233953664-g1u65u59ef62m3vuf4u8g6rfljaatu4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278233953664:android:a9110323ad2f46a0827d65",
+        "android_client_info": {
+          "package_name": "com.example.mindfulai_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278233953664-uck6k533vqnnuq7o719quq9lo5mke4tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsHW72_43KSilPIBWo8e809Hl7T6Rh-8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278233953664-g1u65u59ef62m3vuf4u8g6rfljaatu4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
